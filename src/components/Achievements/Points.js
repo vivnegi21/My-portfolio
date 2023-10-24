@@ -24,7 +24,7 @@ const Points = [
       title: "Leetcode",
       subtitle: "Competitive Programming",
       comment:
-        "Among the Top 12% of users(Max - 1715)",
+        "Among the Top 11% of users(Max - 1723)",
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ const Points = [
       title: "Leetcode",
       subtitle: "Competitive Programming",
       comment:
-      "Secured AIR 1627th/1539 in weekly Contest 343 on Leetcode",
+      "Secured AIR 1627th/15319 in weekly Contest 343 on Leetcode",
     },
     {
       id: 4,
