@@ -60,6 +60,13 @@ const Menu = [
       title: "Digit Recognizer | Computer Vision + Deep Learning",
       category: "Others",
     },
+    {
+      id: 8,
+      url:"https://wombwebsite.vercel.app/",
+      image: Work3,
+      title: "Womb Website | ReactJS + TailwindCSS",
+      category: "Frontend",
+    },
   ];
 
   export default Menu;
