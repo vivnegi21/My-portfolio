@@ -14,7 +14,7 @@ export default function About() {
           <div className="about__info">
             <p className="about__description">I am Vivek Negi. I am learning MERN Stack Development (MongoDB, Express.js, React.js, Node.js) along with that I am good at Data Structure & Algorithms, and Competitive Programming.<br /><br />
               I have also explored Machine learning and deep learning technology. </p>
-            <a href="https://drive.google.com/file/d/1BOzsHBIDmNX5mPKsU9pboHXiJXWWKmNA/view?usp=share_link" className="btn" target='_blank'>Download CV</a>
+            <a href="https://drive.google.com/file/d/100SzAUteMaGxD8C3HXwMnYCF1Whv7QOJ/view?usp=sharing" className="btn" target='_blank'>Download CV</a>
           </div>
 
           {/* SKILLS */}
